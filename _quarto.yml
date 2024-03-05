@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: docs
+  
+  
+website:
+  description: "hagsdhgahghas"
+  
+  navbar:   
+    background: "#000000"
+    search: true
+    left:
+      - text: "Bio"
+        file: index.qmd
+      
+      - file: research.qmd
+      
+      - file: publications.qmd
+      
+      - file: courses.qmd
+      
+filters:
+  - section-bibliographies
+reference-section-title: 
+citeproc: false
+
+bibliography: bibliography.bib
+csl: citation_style.csl 
+    
+format:
+  html:
+    theme: default   
+    css: styles.css 
+    title-block-banner: "#00CCCC"
+    title-block-style: default
+    title-block-banner-color: "#000000"
+ 
+ 

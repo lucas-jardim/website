@@ -1,0 +1,25 @@
+---
+title: " <center>Lucas Jardim <center>"
+subtitle: " <center>Tropical Water Research Alliance<br>Postdoctoral fellow<br>Macrolab<br>Universidade Federal de Jataí (Brazil) </center>"
+subtile: 
+about:
+  template: trestles
+  image: img/InShot_20230509_163652419.jpg
+  image-shape: round
+  links:
+      - text: "{{< fa envelope >}} Email"
+        url: mailto:lucas.ljardim9@gmail.com
+      - text: "{{< fa house >}} Lab"
+        url: https://www.macrolabecologia.com/  
+      - text: "{{< fa brands github >}} Github"
+        url: https://github.com/lucas-jardim
+      - text: "{{< ai lattes >}} Lattes"
+        url: https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4209913E0&tokenCaptchar=03AFcWeA43QrzsBADkcm_5qGVa7JLqmWyGjG65euLkjuscQjuEr8AKKjrYRAIgFCEQxD9PzWqEk8_nBxhKNQkSVVS_VdJmosGOBQcidjRhHIT4BZj5M8TMpGu7PGXrygyrwzEbWUC_lASO3f7zL-c-nx4umwjYd9QlPG4dV-Lx1Vvdx6_btGa_JLo40VUBFRZyHtLhU8y7jS3W5MuaG5YBNe0YfSDUMlhiQAYC9e0jb4JFS4jpjO8cntgQZUn5oPdhVpDyDDrlKyDP0PQQ-LiVqzIMLfQnp7dVLXjNgQXnCbZggrQrU_xM7A8bmAVJfViuYdTSeMsuo7NG935XnH0KevZ8siG8oQFni2CZt4z7yBbR9_KW3-gjqAkHd4Ox5FPpdWhAYsJ1zvRk89p8Vl7tWTEqMQW_OZYByQHh3_HUA-G-wNXkSnh-tDPcJXOdPnQCKm2OsNONOVg3hWePgAC8cxBbeQQxe1q-2NUKLslFRglMvmEvlJnpwWydRjlTaykkOB1kqCmRDVMvcAgY167OjuJlp2CMwcR5Izhc1DJtTmi1F3TQlEG6SDdvqt1cpItW26-xRKwwsdrKANiciRa0eGCzFoKvZldjw2Wed2c0OuGlBKBSaSPTBQAMdnMkYKxSt2UNdfU2KkrlEYY3QPjhtEeKuRryfbBjv33Sm3gjTqOSUlE3kv9sOIc
+      - text: "{{< ai google-scholar >}} Google Scholar"
+        url: https://scholar.google.com/citations?user=5veaHzkAAAAJ&hl=pt-BR&oi=ao
+---
+
+# Bio
+
+I am a macroecologist looking for biodiversity patterns through space and time, trying to understand the underlying mechanisms driving biodiversity. I have being applying spatial and phylogenetic statistical models to study species trait evolution, diversification rates, community phylogenetics, phylogenetic imputation, evolutionary rescue and biodiversity knowledge shortfalls. I am also a scientific programmer developing tools for biodiversity data cleaning and management.
+

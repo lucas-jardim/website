@@ -1,0 +1,22 @@
+# Research
+
+## Macroecology
+
+Biodiversity is distributed unevenly globally. Emergent patterns of biodiversity such as community compositions, species abundance, geographic ranges, trait distribution and phylogenetic relationships are helpful information to identify common mechanisms mounting ecological communities throughout the World. Spatial and phylogenetic comparative methods are applied to understand mechanisms driving biodiversity at different scales.
+
+## Macroevolution 
+
+Biodiversity distribution is a consequence of diversification and dispersion along time and space. We look for species traits and environmental variables causing different speciation and extinction rates among evolutionary lineages, geographical regions and geological time.   
+
+## Climate change
+
+This research line investigates how climate change impacted biodiversity in the past, its current and future effects on biodiversity. Applying species distribution models (SDM), evolutionary rescue models and geodiversity variables to model biodiversity responses to climate change.
+
+
+## Biodiversity knowledge shortfall
+
+Biodiversity studies are mostly based on observational data biased to some taxa, geographical regions, phylogenetic positions, measured traits and detected interactions among organisms. This research line identifies biases and gaps in biodiversity data, proposing methodological solutions to infer ecological and evolutionary processes. 
+
+## Software
+
+While biodiversity data is becoming easily available, concerns about data quality and harmonization become usual. We developed a software ([*bdc*](https://brunobrr.github.io/bdc/)) to help biodiversity scientists filter and harmonize taxonomic, geographical and temporal data from several databases. 
