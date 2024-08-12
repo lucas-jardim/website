@@ -2,3 +2,15 @@
 body {
   text-align:justify
   } 
+  
+  
+ .quarto-title-block .quarto-title-banner {
+  background-image: url(img/logos.png);
+  background-size: 1300px;
+  background-position: center;
+  background-repeat: no-repeat
+ 
+} 
+
+
+ 

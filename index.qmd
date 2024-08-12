@@ -22,4 +22,3 @@ about:
 # Bio
 
 I am a macroecologist looking for biodiversity patterns through space and time, trying to understand the underlying mechanisms driving biodiversity. I have being applying spatial and phylogenetic statistical models to study species trait evolution, diversification rates, community phylogenetics, phylogenetic imputation, evolutionary rescue and biodiversity knowledge shortfalls. I am also a scientific programmer developing tools for biodiversity data cleaning and management.
-

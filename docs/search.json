@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "\nLucas Jardim\n",
-    "section": "",
-    "text": "Bio\nI am a macroecologist looking for biodiversity patterns through space and time, trying to understand the underlying mechanisms driving biodiversity. I have being applying spatial and phylogenetic statistical models to study species trait evolution, diversification rates, community phylogenetics, phylogenetic imputation, evolutionary rescue and biodiversity knowledge shortfalls. I am also a scientific programmer developing tools for biodiversity data cleaning and management."
-  },
-  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
@@ -14,18 +7,25 @@
     "text": "Biodiversity is distributed unevenly globally. Emergent patterns of biodiversity such as community compositions, species abundance, geographic ranges, trait distribution and phylogenetic relationships are helpful information to identify common mechanisms mounting ecological communities throughout the World. Spatial and phylogenetic comparative methods are applied to understand mechanisms driving biodiversity at different scales.\n\n\n\nBiodiversity distribution is a consequence of diversification and dispersion along time and space. We look for species traits and environmental variables causing different speciation and extinction rates among evolutionary lineages, geographical regions and geological time.\n\n\n\nThis research line investigates how climate change impacted biodiversity in the past, its current and future effects on biodiversity. Applying species distribution models (SDM), evolutionary rescue models and geodiversity variables to model biodiversity responses to climate change.\n\n\n\nBiodiversity studies are mostly based on observational data biased to some taxa, geographical regions, phylogenetic positions, measured traits and detected interactions among organisms. This research line identifies biases and gaps in biodiversity data, proposing methodological solutions to infer ecological and evolutionary processes.\n\n\n\nWhile biodiversity data is becoming easily available, concerns about data quality and harmonization become usual. We developed a software (bdc) to help biodiversity scientists filter and harmonize taxonomic, geographical and temporal data from several databases."
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
+    "objectID": "research.html#macroecology",
+    "href": "research.html#macroecology",
+    "title": "Research",
     "section": "",
-    "text": "Abreu-Jardim, T. P. F., Jardim, L., Ballesteros-Mejia, L., Maciel, N. M., & Collevatti, R. G. (2021). Predicting impacts of global climatic change on genetic and phylogeographical diversity of a Neotropical treefrog. Divcersity and Distribution, 27(8), 1519–1535. https://doi.org/10.1111/ddi.13299\n\n\nAbreu‐Jardim, T. P. F., De Lima, N. E., Jardim, L., Maciel, N. M., De Magalhães, R. F., Colli, G. R., Haddad, C. F. B., & Collevatti, R. G. (2023). Neogene–Quaternary tectonic, eustatic and climatic events shaped the evolution of a South American treefrog. Journal of Biogeography, 50(5), 987–999. https://doi.org/10.1111/jbi.14578\n\n\nCássia-Silva, C., Freitas, C. G., Jardim, L., Bacon, C. D., & Collevatti, R. G. (2021). In situ radiation explains the frequency of dioecious palms on islands. Annals of Botany.\n\n\nCássia-Silva, C., Oliveira, R. S., Sales, L. P., Freitas, C. G., Jardim, L., Emilio, T., Bacon, C. D., & Collevatti, R. G. (2022). Acaulescence promotes speciation and shapes the distribution patterns of palms in neotropical seasonally dry habitats. Ecography, 2022(3), e06072.\n\n\nDiniz Filho, J. A. F., Jardim, L., Guedes, J. J., Meyer, L., Stropp, J., Frateles, L. E. F., Pinto, R. B., Lohmann, L. G., Tessarolo, G., Carvalho, C. J. de, et al. (2023). Macroecological links between the linnean, wallacean, and darwinian shortfalls. Frontiers of Biogeography, 15(2).\n\n\nDiniz-Filho, J. A. F., Jardim, L., Mondanaro, A., & Raia, P. (2019). Multiple components of phylogenetic non-stationarity in the evolution of brain size in fossil hominins. Evolutionary Biology, 46(1), 47–59.\n\n\nDiniz-Filho, J. A. F., Jardim, L., Rangel, T. F., Holden, P. B., Edwards, N. R., Hortal, J., Santos, A. M., & Raia, P. (2019). Quantitative genetics of body size evolution on islands: An individual-based simulation approach. Biology Letters, 15(10), 20190481.\n\n\nDiniz-Filho, J. A. F., Santos, A. M., Barreto, E., Naves, F., Santos, W., Souza, K. S., Santos-Silva, R., Dobrovolski, R., Soares, T. N., Tidon, R., et al. (n.d.). Quantitative genetics of extreme insular dwarfing: The case of red deer on jersey. Journal of Biogeography.\n\n\nDiniz-Filho, J. A. F., Santos, W., & Jardim, L. (n.d.). INTEGRATING MACROECOLOGY AND QUANTITATIVE GENETICS: EVOLUTION OF BODY SIZE AND BRAIN SIZE UNDER ISLAND RULE.\n\n\nDiniz-Filho, J. A., & Jardim, L. (2023). Biodiversity generation, overview.\n\n\nGuerra, V., Jardim, L., Llusia, D., Márquez, R., & Bastos, R. P. (2020). Knowledge status and trends in description of amphibian species in brazil. Ecological Indicators, 118, 106754.\n\n\nJardim, L., Bini, L. M., Diniz-Filho, J. A. F., & Villalobos, F. (2021). A cautionary note on phylogenetic signal estimation from imputed databases. Evolutionary Biology, 1–13.\n\n\nMachado, F., Jardim, L., Dinnage, R., Brito, D., & Cardillo, M. (2022). Diet disparity and diversity predict extinction risk in primates. Animal Conservation.\n\n\nRibeiro, B. R., Guidoni-Martins, K., Tessarolo, G., Velazco, S. J. E., Jardim, L., Bachman, S. P., & Loyola, R. (2022). Issues with species occurrence data and their impact on extinction risk assessments. Biological Conservation, 273, 109674.\n\n\nRibeiro, B. R., Velazco, S. J. E., Guidoni-Martins, K., Tessarolo, G., Jardim, L., Bachman, S. P., & Loyola, R. (2022). Bdc: A toolkit for standardizing, integrating and cleaning biodiversity data. Methods in Ecology and Evolution, 13(7), 1421–1428.\n\n\nSobral, F. L., Jardim, L., Lemes, P., Machado, N., Loyola, R., & Cianciaruso, M. V. (2014). Spatial conservation priorities for top predators reveal mismatches among taxonomic, phylogenetic and functional diversity. Natureza & Conservação, 12(2), 150–155.\n\n\nStaggemeier, V. G., Camargo, M. G. G., Diniz-Filho, J. A. F., Freckleton, R., Jardim, L., & Morellato, L. P. C. (2020). The circular nature of recurrent life cycle events: A test comparing tropical and temperate phenology. Journal of Ecology, 108(2), 393–404."
+    "text": "Biodiversity is distributed unevenly globally. Emergent patterns of biodiversity such as community compositions, species abundance, geographic ranges, trait distribution and phylogenetic relationships are helpful information to identify common mechanisms mounting ecological communities throughout the World. Spatial and phylogenetic comparative methods are applied to understand mechanisms driving biodiversity at different scales."
   },
   {
-    "objectID": "courses.html",
-    "href": "courses.html",
-    "title": "Courses",
+    "objectID": "research.html#macroevolution",
+    "href": "research.html#macroevolution",
+    "title": "Research",
     "section": "",
-    "text": "Courses"
+    "text": "Biodiversity distribution is a consequence of diversification and dispersion along time and space. We look for species traits and environmental variables causing different speciation and extinction rates among evolutionary lineages, geographical regions and geological time."
+  },
+  {
+    "objectID": "research.html#climate-change",
+    "href": "research.html#climate-change",
+    "title": "Research",
+    "section": "",
+    "text": "This research line investigates how climate change impacted biodiversity in the past, its current and future effects on biodiversity. Applying species distribution models (SDM), evolutionary rescue models and geodiversity variables to model biodiversity responses to climate change."
   },
   {
     "objectID": "research.html#biodiversity-knowledge-shortfall",
@@ -42,53 +42,18 @@
     "text": "While biodiversity data is becoming easily available, concerns about data quality and harmonization become usual. We developed a software (bdc) to help biodiversity scientists filter and harmonize taxonomic, geographical and temporal data from several databases."
   },
   {
-    "objectID": "research.html#bibliography-1",
-    "href": "research.html#bibliography-1",
-    "title": "Research",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "\nLucas Jardim\n",
     "section": "",
-    "text": "Abreu-Jardim, T. P. F., Jardim, L., Ballesteros-Mejia, L., Maciel, N. M., & Collevatti, R. G. (2021). Predicting impacts of global climatic change on genetic and phylogeographical diversity of a Neotropical treefrog. Divcersity and Distribution, 27(8), 1519–1535. https://doi.org/10.1111/ddi.13299\n\n\nAbreu‐Jardim, T. P. F., De Lima, N. E., Jardim, L., Maciel, N. M., De Magalhães, R. F., Colli, G. R., Haddad, C. F. B., & Collevatti, R. G. (2023). Neogene–Quaternary tectonic, eustatic and climatic events shaped the evolution of a South American treefrog. Journal of Biogeography, 50(5), 987–999. https://doi.org/10.1111/jbi.14578\n\n\nCássia-Silva, C., Freitas, C. G., Jardim, L., Bacon, C. D., & Collevatti, R. G. (2021). In situ radiation explains the frequency of dioecious palms on islands. Annals of Botany.\n\n\nCássia-Silva, C., Oliveira, R. S., Sales, L. P., Freitas, C. G., Jardim, L., Emilio, T., Bacon, C. D., & Collevatti, R. G. (2022). Acaulescence promotes speciation and shapes the distribution patterns of palms in neotropical seasonally dry habitats. Ecography, 2022(3), e06072.\n\n\nDiniz Filho, J. A. F., Jardim, L., Guedes, J. J., Meyer, L., Stropp, J., Frateles, L. E. F., Pinto, R. B., Lohmann, L. G., Tessarolo, G., Carvalho, C. J. de, et al. (2023). Macroecological links between the linnean, wallacean, and darwinian shortfalls. Frontiers of Biogeography, 15(2).\n\n\nGuerra, V., Jardim, L., Llusia, D., Márquez, R., & Bastos, R. P. (2020). Knowledge status and trends in description of amphibian species in brazil. Ecological Indicators, 118, 106754.\n\n\nJardim, L., Bini, L. M., Diniz-Filho, J. A. F., & Villalobos, F. (2021). A cautionary note on phylogenetic signal estimation from imputed databases. Evolutionary Biology, 1–13.\n\n\nRibeiro, B. R., Guidoni-Martins, K., Tessarolo, G., Velazco, S. J. E., Jardim, L., Bachman, S. P., & Loyola, R. (2022). Issues with species occurrence data and their impact on extinction risk assessments. Biological Conservation, 273, 109674.\n\n\nRibeiro, B. R., Velazco, S. J. E., Guidoni-Martins, K., Tessarolo, G., Jardim, L., Bachman, S. P., & Loyola, R. (2022). Bdc: A toolkit for standardizing, integrating and cleaning biodiversity data. Methods in Ecology and Evolution, 13(7), 1421–1428."
+    "text": "Bio\nI am a macroecologist looking for biodiversity patterns through space and time, trying to understand the underlying mechanisms driving biodiversity. I have being applying spatial and phylogenetic statistical models to study species trait evolution, diversification rates, community phylogenetics, phylogenetic imputation, evolutionary rescue and biodiversity knowledge shortfalls. I am also a scientific programmer developing tools for biodiversity data cleaning and management."
   },
   {
-    "objectID": "research.html#bibliography-2",
-    "href": "research.html#bibliography-2",
-    "title": "Research",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
     "section": "",
-    "text": "Cássia-Silva, C., Freitas, C. G., Jardim, L., Bacon, C. D., & Collevatti, R. G. (2021). In situ radiation explains the frequency of dioecious palms on islands. Annals of Botany.\n\n\nCássia-Silva, C., Oliveira, R. S., Sales, L. P., Freitas, C. G., Jardim, L., Emilio, T., Bacon, C. D., & Collevatti, R. G. (2022). Acaulescence promotes speciation and shapes the distribution patterns of palms in neotropical seasonally dry habitats. Ecography, 2022(3), e06072."
-  },
-  {
-    "objectID": "research.html#bibliography-3",
-    "href": "research.html#bibliography-3",
-    "title": "Research",
-    "section": "",
-    "text": "Abreu-Jardim, T. P. F., Jardim, L., Ballesteros-Mejia, L., Maciel, N. M., & Collevatti, R. G. (2021). Predicting impacts of global climatic change on genetic and phylogeographical diversity of a Neotropical treefrog. Divcersity and Distribution, 27(8), 1519–1535. https://doi.org/10.1111/ddi.13299\n\n\nAbreu‐Jardim, T. P. F., De Lima, N. E., Jardim, L., Maciel, N. M., De Magalhães, R. F., Colli, G. R., Haddad, C. F. B., & Collevatti, R. G. (2023). Neogene–Quaternary tectonic, eustatic and climatic events shaped the evolution of a South American treefrog. Journal of Biogeography, 50(5), 987–999. https://doi.org/10.1111/jbi.14578"
-  },
-  {
-    "objectID": "research.html#climate-change",
-    "href": "research.html#climate-change",
-    "title": "Research",
-    "section": "",
-    "text": "This research line investigates how climate change impacted biodiversity in the past, its current and future effects on biodiversity. Applying species distribution models (SDM), evolutionary rescue models and geodiversity variables to model biodiversity responses to climate change."
-  },
-  {
-    "objectID": "research.html#macroevolution",
-    "href": "research.html#macroevolution",
-    "title": "Research",
-    "section": "",
-    "text": "Biodiversity distribution is a consequence of diversification and dispersion along time and space. We look for species traits and environmental variables causing different speciation and extinction rates among evolutionary lineages, geographical regions and geological time."
-  },
-  {
-    "objectID": "research.html#bibliography-4",
-    "href": "research.html#bibliography-4",
-    "title": "Research",
-    "section": "",
-    "text": "Diniz Filho, J. A. F., Jardim, L., Guedes, J. J., Meyer, L., Stropp, J., Frateles, L. E. F., Pinto, R. B., Lohmann, L. G., Tessarolo, G., Carvalho, C. J. de, et al. (2023). Macroecological links between the linnean, wallacean, and darwinian shortfalls. Frontiers of Biogeography, 15(2).\n\n\nGuerra, V., Jardim, L., Llusia, D., Márquez, R., & Bastos, R. P. (2020). Knowledge status and trends in description of amphibian species in brazil. Ecological Indicators, 118, 106754.\n\n\nJardim, L., Bini, L. M., Diniz-Filho, J. A. F., & Villalobos, F. (2021). A cautionary note on phylogenetic signal estimation from imputed databases. Evolutionary Biology, 1–13.\n\n\nRibeiro, B. R., Guidoni-Martins, K., Tessarolo, G., Velazco, S. J. E., Jardim, L., Bachman, S. P., & Loyola, R. (2022). Issues with species occurrence data and their impact on extinction risk assessments. Biological Conservation, 273, 109674."
-  },
-  {
-    "objectID": "research.html#bibliography-5",
-    "href": "research.html#bibliography-5",
-    "title": "Research",
-    "section": "",
-    "text": "Ribeiro, B. R., Velazco, S. J. E., Guidoni-Martins, K., Tessarolo, G., Jardim, L., Bachman, S. P., & Loyola, R. (2022). Bdc: A toolkit for standardizing, integrating and cleaning biodiversity data. Methods in Ecology and Evolution, 13(7), 1421–1428."
+    "text": "Abreu-Jardim, T. P. F., Jardim, L., Ballesteros-Mejia, L., Maciel, N. M., & Collevatti, R. G. (2021). Predicting impacts of global climatic change on genetic and phylogeographical diversity of a Neotropical treefrog. Divcersity and Distribution, 27(8), 1519–1535. https://doi.org/10.1111/ddi.13299\n\n\nAbreu‐Jardim, T. P. F., De Lima, N. E., Jardim, L., Maciel, N. M., De Magalhães, R. F., Colli, G. R., Haddad, C. F. B., & Collevatti, R. G. (2023). Neogene–Quaternary tectonic, eustatic and climatic events shaped the evolution of a South American treefrog. Journal of Biogeography, 50(5), 987–999. https://doi.org/10.1111/jbi.14578\n\n\nCássia-Silva, C., Freitas, C. G., Jardim, L., Bacon, C. D., & Collevatti, R. G. (2021). In situ radiation explains the frequency of dioecious palms on islands. Annals of Botany.\n\n\nCássia-Silva, C., Oliveira, R. S., Sales, L. P., Freitas, C. G., Jardim, L., Emilio, T., Bacon, C. D., & Collevatti, R. G. (2022). Acaulescence promotes speciation and shapes the distribution patterns of palms in neotropical seasonally dry habitats. Ecography, 2022(3), e06072.\n\n\nDiniz Filho, J. A. F., Jardim, L., Guedes, J. J., Meyer, L., Stropp, J., Frateles, L. E. F., Pinto, R. B., Lohmann, L. G., Tessarolo, G., Carvalho, C. J. de, et al. (2023). Macroecological links between the linnean, wallacean, and darwinian shortfalls. Frontiers of Biogeography, 15(2).\n\n\nDiniz-Filho, J. A. F., Jardim, L., Mondanaro, A., & Raia, P. (2019). Multiple components of phylogenetic non-stationarity in the evolution of brain size in fossil hominins. Evolutionary Biology, 46(1), 47–59.\n\n\nDiniz-Filho, J. A. F., Jardim, L., Rangel, T. F., Holden, P. B., Edwards, N. R., Hortal, J., Santos, A. M., & Raia, P. (2019). Quantitative genetics of body size evolution on islands: An individual-based simulation approach. Biology Letters, 15(10), 20190481.\n\n\nDiniz-Filho, J. A. F., Santos, A. M., Barreto, E., Naves, F., Santos, W., Souza, K. S., Santos-Silva, R., Dobrovolski, R., Soares, T. N., Tidon, R., et al. (n.d.). Quantitative genetics of extreme insular dwarfing: The case of red deer on jersey. Journal of Biogeography.\n\n\nDiniz-Filho, J. A. F., Santos, W., & Jardim, L. (n.d.). INTEGRATING MACROECOLOGY AND QUANTITATIVE GENETICS: EVOLUTION OF BODY SIZE AND BRAIN SIZE UNDER ISLAND RULE.\n\n\nDiniz-Filho, J. A., & Jardim, L. (2023). Biodiversity generation, overview.\n\n\nGuerra, V., Jardim, L., Llusia, D., Márquez, R., & Bastos, R. P. (2020). Knowledge status and trends in description of amphibian species in brazil. Ecological Indicators, 118, 106754.\n\n\nJardim, L., Bini, L. M., Diniz-Filho, J. A. F., & Villalobos, F. (2021). A cautionary note on phylogenetic signal estimation from imputed databases. Evolutionary Biology, 1–13.\n\n\nMachado, F., Jardim, L., Dinnage, R., Brito, D., & Cardillo, M. (2022). Diet disparity and diversity predict extinction risk in primates. Animal Conservation.\n\n\nRibeiro, B. R., Guidoni-Martins, K., Tessarolo, G., Velazco, S. J. E., Jardim, L., Bachman, S. P., & Loyola, R. (2022). Issues with species occurrence data and their impact on extinction risk assessments. Biological Conservation, 273, 109674.\n\n\nRibeiro, B. R., Velazco, S. J. E., Guidoni-Martins, K., Tessarolo, G., Jardim, L., Bachman, S. P., & Loyola, R. (2022). Bdc: A toolkit for standardizing, integrating and cleaning biodiversity data. Methods in Ecology and Evolution, 13(7), 1421–1428.\n\n\nSobral, F. L., Jardim, L., Lemes, P., Machado, N., Loyola, R., & Cianciaruso, M. V. (2014). Spatial conservation priorities for top predators reveal mismatches among taxonomic, phylogenetic and functional diversity. Natureza & Conservação, 12(2), 150–155.\n\n\nStaggemeier, V. G., Camargo, M. G. G., Diniz-Filho, J. A. F., Freckleton, R., Jardim, L., & Morellato, L. P. C. (2020). The circular nature of recurrent life cycle events: A test comparing tropical and temperate phenology. Journal of Ecology, 108(2), 393–404."
   },
   {
     "objectID": "publications.html#bibliography-1",
@@ -96,12 +61,5 @@
     "title": "Publications",
     "section": "",
     "text": "Abreu-Jardim, T. P. F., Jardim, L., Ballesteros-Mejia, L., Maciel, N. M., & Collevatti, R. G. (2021). Predicting impacts of global climatic change on genetic and phylogeographical diversity of a Neotropical treefrog. Divcersity and Distribution, 27(8), 1519–1535. https://doi.org/10.1111/ddi.13299\n\n\nAbreu‐Jardim, T. P. F., De Lima, N. E., Jardim, L., Maciel, N. M., De Magalhães, R. F., Colli, G. R., Haddad, C. F. B., & Collevatti, R. G. (2023). Neogene–Quaternary tectonic, eustatic and climatic events shaped the evolution of a South American treefrog. Journal of Biogeography, 50(5), 987–999. https://doi.org/10.1111/jbi.14578\n\n\nCássia-Silva, C., Freitas, C. G., Jardim, L., Bacon, C. D., & Collevatti, R. G. (2021). In situ radiation explains the frequency of dioecious palms on islands. Annals of Botany.\n\n\nCássia-Silva, C., Oliveira, R. S., Sales, L. P., Freitas, C. G., Jardim, L., Emilio, T., Bacon, C. D., & Collevatti, R. G. (2022). Acaulescence promotes speciation and shapes the distribution patterns of palms in neotropical seasonally dry habitats. Ecography, 2022(3), e06072.\n\n\nDiniz Filho, J. A. F., Jardim, L., Guedes, J. J., Meyer, L., Stropp, J., Frateles, L. E. F., Pinto, R. B., Lohmann, L. G., Tessarolo, G., Carvalho, C. J. de, et al. (2023). Macroecological links between the linnean, wallacean, and darwinian shortfalls. Frontiers of Biogeography, 15(2).\n\n\nDiniz-Filho, J. A. F., Jardim, L., Mondanaro, A., & Raia, P. (2019). Multiple components of phylogenetic non-stationarity in the evolution of brain size in fossil hominins. Evolutionary Biology, 46(1), 47–59.\n\n\nDiniz-Filho, J. A. F., Jardim, L., Rangel, T. F., Holden, P. B., Edwards, N. R., Hortal, J., Santos, A. M., & Raia, P. (2019). Quantitative genetics of body size evolution on islands: An individual-based simulation approach. Biology Letters, 15(10), 20190481.\n\n\nDiniz-Filho, J. A. F., Santos, A. M., Barreto, E., Naves, F., Santos, W., Souza, K. S., Santos-Silva, R., Dobrovolski, R., Soares, T. N., Tidon, R., et al. (n.d.). Quantitative genetics of extreme insular dwarfing: The case of red deer on jersey. Journal of Biogeography.\n\n\nDiniz-Filho, J. A. F., Santos, W., & Jardim, L. (n.d.). INTEGRATING MACROECOLOGY AND QUANTITATIVE GENETICS: EVOLUTION OF BODY SIZE AND BRAIN SIZE UNDER ISLAND RULE.\n\n\nDiniz-Filho, J. A., & Jardim, L. (2023). Biodiversity generation, overview.\n\n\nGuerra, V., Jardim, L., Llusia, D., Márquez, R., & Bastos, R. P. (2020). Knowledge status and trends in description of amphibian species in brazil. Ecological Indicators, 118, 106754.\n\n\nJardim, L., Bini, L. M., Diniz-Filho, J. A. F., & Villalobos, F. (2021). A cautionary note on phylogenetic signal estimation from imputed databases. Evolutionary Biology, 1–13.\n\n\nMachado, F., Jardim, L., Dinnage, R., Brito, D., & Cardillo, M. (2022). Diet disparity and diversity predict extinction risk in primates. Animal Conservation.\n\n\nRibeiro, B. R., Guidoni-Martins, K., Tessarolo, G., Velazco, S. J. E., Jardim, L., Bachman, S. P., & Loyola, R. (2022). Issues with species occurrence data and their impact on extinction risk assessments. Biological Conservation, 273, 109674.\n\n\nRibeiro, B. R., Velazco, S. J. E., Guidoni-Martins, K., Tessarolo, G., Jardim, L., Bachman, S. P., & Loyola, R. (2022). Bdc: A toolkit for standardizing, integrating and cleaning biodiversity data. Methods in Ecology and Evolution, 13(7), 1421–1428.\n\n\nSobral, F. L., Jardim, L., Lemes, P., Machado, N., Loyola, R., & Cianciaruso, M. V. (2014). Spatial conservation priorities for top predators reveal mismatches among taxonomic, phylogenetic and functional diversity. Natureza & Conservação, 12(2), 150–155.\n\n\nStaggemeier, V. G., Camargo, M. G. G., Diniz-Filho, J. A. F., Freckleton, R., Jardim, L., & Morellato, L. P. C. (2020). The circular nature of recurrent life cycle events: A test comparing tropical and temperate phenology. Journal of Ecology, 108(2), 393–404."
-  },
-  {
-    "objectID": "research.html#macroecology",
-    "href": "research.html#macroecology",
-    "title": "Research",
-    "section": "",
-    "text": "Biodiversity is distributed unevenly globally. Emergent patterns of biodiversity such as community compositions, species abundance, geographic ranges, trait distribution and phylogenetic relationships are helpful information to identify common mechanisms mounting ecological communities throughout the World. Spatial and phylogenetic comparative methods are applied to understand mechanisms driving biodiversity at different scales."
   }
 ]
